@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @akmami
-- 👀 I’m interested in SWE and Research
 - 🌱 I’m currently learning bunch of new stuff
-- 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/akmami/)
--  For more information, visit my [webpage](https://portfolio-akmami.herokuapp.com)
+-  For more information, visit my [webpage](https://akmami.github.io/portfolio-akmami/)
